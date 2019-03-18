@@ -1,5 +1,5 @@
 <?php
-	
+	echo 4;
 	$val = [1,2,4,6,8,0,4];
 
 	echo count($val);
